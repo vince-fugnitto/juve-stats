@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src="assets/juve-stats.png" width="100px" />
+<img src="https://raw.githubusercontent.com/vince-fugnitto/juve-stats/master/assets/juve-stats.png?sanitize=true" width="100px" />
 
 <br />
 
