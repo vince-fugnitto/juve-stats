@@ -16,4 +16,4 @@ The `juve-stats` VS Code extension provides functionality in the form of Juventu
 
 ## License
 
-
+This project is licensed under the MIT License.

@@ -1,6 +1,12 @@
 {
 	"name": "juve-stats",
 	"displayName": "juve-stats",
+	"publisher": "vince-fugnitto",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vince-fugnitto/juve-stats"
+	},
 	"description": "",
 	"version": "0.0.1",
 	"engines": {
